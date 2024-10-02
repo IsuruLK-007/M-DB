@@ -1,11 +1,2 @@
-{
-// ==================== DEV-NUMBERS ====================
-"devisuru": "94766632281",
-"devtharu": "94785635619",
-
-// ==================== DEV - REACTS ===================
-"isurur": "❤️",
-"DEV2_REACT": "🇱🇰"
-}
-
-
+* Author :- **I s u R u  C h a M i k a  (  ᴍ ᴀ ᴄ ᴛ ʀ ɪ x  )**
+* Owned by **CYBERKILLERSTEAM**

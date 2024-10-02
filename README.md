@@ -1,4 +1,4 @@
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=abb2b9&center=true&vCenter=true&multiline=false&lines=M+A+C+T+R+I+X+-+M+D" alt="">
+<a href="#"><img src="color=abb2b9&center=true&vCenter=true&multiline=false&lines=M+A+C+T+R+I+X+-+M+D" alt="">
 </p>
 <div class = "repo" align = "center">
  

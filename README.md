@@ -96,4 +96,4 @@ Qr Code `Not Published yet !!`
    
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
      
-[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystalk-000000?style=for-the-badge&logo=toystack&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystalk-000000?style=for-the-badge&logo=toystackai&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)

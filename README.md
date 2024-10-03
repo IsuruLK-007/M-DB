@@ -116,15 +116,36 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 </details>
 
-***
+---
 
-#### Follow Us On Social Media 🌐
+### Follow Us On Social Media 🌐
 
 *_Stay updated with the latest features and announcements by following us on:_*
 
 
 [![tg](https://img.shields.io/badge/TELEGRAM%20CONTACT-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/IsuruChamika007)</br>
 [![isuru](https://img.shields.io/badge/WHATSAPP%20CONTACT-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94766632281)</br>
-[![isuru](https://img.shields.io/badge/YOUTUBE%20CHANNEL-darkred?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@IsuruChamika007/)</br>
-[![isuru](https://img.shields.io/badge/WHATSAPP%20CHANNEL-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaZn08Q7j6gBT4I8Ig23)
+[![isuru](https://img.shields.io/badge/WHATSAPP%20CHANNEL-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaZn08Q7j6gBT4I8Ig23)</br>
+[![isuru](https://img.shields.io/badge/YOUTUBE%20CHANNEL-darkred?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@IsuruChamika007/)
 </br>
+
+***
+
+<a href="https://buymeacoffee.com/isuruchamika007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+***
+
+## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+
+
+   <a href="https://github.com/IsuruChamika007/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
+
+---
+
+|**[`I s u R u  C h a M i k a`](https://github.com/IsuruChamika007)**|
+
+---
+
+<a href="https://github.com/MrTharuwa"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
+
+|**[`T h a R u s h a  K a v I n d a`](https://github.com/MrTharuwa)**|

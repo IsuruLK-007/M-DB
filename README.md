@@ -57,14 +57,13 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 **MACTRIX-MD** is a simple and powerful whatsapp user bot and this bot is very easy to use.
 
-#### <!-- MACTRIX-MD Fᴇᴀᴛᴜʀᴇꜱ 🌟 -->
 <b><details><summary>MACTRIX-MD Fᴇᴀᴛᴜʀᴇꜱ 🌟</summary></b>
 
 `Not Published yet !!`
 
 </details>
 
-#### Hᴏᴡ Tᴏ Cʀᴇᴀᴛᴇ MACTRIX-MD 📖
+<b><details><summary>Hᴏᴡ Tᴏ Cʀᴇᴀᴛᴇ MACTRIX-MD 📖</summary></b>
    
 1. **You must need those things before deploy.**
  
@@ -112,3 +111,5 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 - **_You will need some code when deploying in Github workflows. Click the button below to get it._**
      
 [![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo="https://i.ibb.co/pwNf08R/1713103024643.jpg")](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)
+
+</details>

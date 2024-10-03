@@ -73,17 +73,17 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
     
 2. **You must need to fork MACTRIX-MD repository.**
    
-[![isuru](https://img.shields.io/badge/fork_mactrix_md_repository-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX-MD/fork)
+<a href='https://github.com/IsuruLK-007/MACTRIX-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Mactrix Md Repository-black?style=for-the-badge&logo=git&logoColor=white'/></a>
     
     
 3. **Connect to whatsapp.**
     
 - _Link with your whatsappp using Scan qr code or pair code._
     
-Pair Code `Not Published yet !!`
-Qr Code `Not Published yet !!`
+<a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Pair Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Qr Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
      
-- _Open config.js on your forked repository. an put `SESSION_ID` and change other settings you need._
+- _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
      
      
 4. **Deploy**
@@ -93,8 +93,8 @@ Qr Code `Not Published yet !!`
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/IsuruLK-007/MACTRIX-MD)
   
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=mactrix-md)
-
-[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_koyeb-0B0D0E?style=for-the-badge&logo=koyeb&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=mactrix-md)
+    
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_koyeb-0B0D0E?style=for-the-badge&logo=koyeb&logoColor=white&buttcode=1n2i3m4a)](https://koyeb.app)
    
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
@@ -107,5 +107,5 @@ Qr Code `Not Published yet !!`
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
       
 - **_You will need some code when deploying in Github workflows. Click the button below to get it._**
-
+     
 [![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo="https://i.ibb.co/pwNf08R/1713103024643.jpg")](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)

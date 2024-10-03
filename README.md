@@ -1,6 +1,6 @@
 # <p align="center"> M A C T R I X - M D </p>
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=MULTI+DEVICE+WHATSAPP+USER+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=C70039&center=true&vCenter=true&multiline=false&lines=MULTI+DEVICE+WHATSAPP+USER+BOT" alt="">
 </p>
 
 ***
@@ -96,4 +96,4 @@ Qr Code `Not Published yet !!`
    
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
      
-[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystalk-000000?style=for-the-badge&logo=toystackai&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)

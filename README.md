@@ -62,30 +62,38 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 `Not Published yet !!`
 
 #### Hᴏᴡ Tᴏ Cʀᴇᴀᴛᴇ MACTRIX-MD 📖
-
+   
 1. **You must need those things before deploy.**
  
- - _Github Account._
+- _Github Account_
    * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
-
+    
 - _Host_
-
-
-2. **Fork MACTRIX-MD Repository.**
-
+    
+    
+2. **You must need to fork MACTRIX-MD repository.**
+   
 <a href='https://github.com/IsuruLK-007/MACTRIX-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repository-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28</a>
-
-
+    
+    
 3. **Connect to whatsapp.**
-
+    
 - _Link with your whatsappp using Scan qr code or pair code._
-
+    
 Pair Code `Not Published yet !!`
 Qr Code `Not Published yet !!`
-
+     
 - _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
-
-
+     
+     
 4. **Deploy**
-
-`Not Published yet !!`
+     
+[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/IsuruLK-007/MACTRIX-MD)
+  
+[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=mactrix-md)
+   
+[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+   
+[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+     
+[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)

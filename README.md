@@ -116,9 +116,15 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 </details>
 
+***
+
 #### Follow Us On Social Media 🌐
 
 *_Stay updated with the latest features and announcements by following us on:_*
 
 
-
+[![isuru](https://img.shields.io/badge/YOUTUBE%20CHANNEL-darkred?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@IsuruChamika007/)</br>
+[![isuru](https://img.shields.io/badge/WHATSAPP%20CONTACT-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94766632281)</br>
+[![isuru](https://img.shields.io/badge/WHATSAPP%20CHANNEL-darkgreen?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaZn08Q7j6gBT4I8Ig23)</br>
+[![tg](https://img.shields.io/badge/TELEGRAM%20CONTACT-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/IsuruChamika007)
+</br>

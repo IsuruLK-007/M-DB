@@ -34,7 +34,7 @@
 
   </a>
   <a href="https://github.com/IsuruLK-007/MACTRIX-MD">
-    <img src="https://img.shields.io/static/v1?label=Developer&message=I%20s%20u%20R%20u%20%20C%20h%20a%20M%20i%20k%20a&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Developer&message=I%20s%20u%20R%20u%20%20%20C%20h%20a%20M%20i%20k%20a&color=purple&style=plastic">
 
   </a>
   </p>

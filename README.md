@@ -101,41 +101,9 @@ Qr Code `Not Published yet !!`
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystack-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
     
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_github_workflows-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX-MD/new/main?filename=.github/workflows/main.yml&workflow_template=blank)
-- _You will need the code below when deploying in Github workflows. 👇_
+    
+- **_You will need some code when deploying in Github workflows. Click the button below to get it._**
      
-```
-name: Node.js CI
-
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
-<h4 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h4>
+[![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)
+      
+<h3 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h3>

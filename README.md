@@ -66,7 +66,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 1. **You must need those things before deploy.**
  
 - _Github Account_
-**◍[![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))**
+◍ **[![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))**
     
 - _Host_
     

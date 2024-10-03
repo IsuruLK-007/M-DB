@@ -48,3 +48,5 @@
 ***
 
 # Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛꜱ 🔮🤖
+
+A **WHATSAPP BOT** is a third party application and with this we can easily download many things from WhatsApp itself and know many more things that we need.

@@ -53,7 +53,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 ***
 
-#### ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ  **ᴍ ᴀ ᴄ ᴛ ʀ ɪ x - ᴍ ᴅ  ʙᴏᴛ** 🔮👾
+#### ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ  *ᴍᴀᴄᴛʀɪx - ᴍᴅ ʙᴏᴛ* 🔮👾
 
 **MACTRIX-MD** is a simple and powerful whatsapp user bot and this bot is very easy to use.
 

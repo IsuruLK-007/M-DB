@@ -1,4 +1,7 @@
 ## <p align="center"> M A C T R I X - M D </p>
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=MULTIDEVICE+WHATSAPP+USER+BOT" alt="">
+</p>
 ***
 <div class = "repo" align = "center">
  

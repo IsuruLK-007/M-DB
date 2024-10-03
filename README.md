@@ -73,7 +73,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
     
 2. **You must need to fork MACTRIX-MD repository.**
    
-[![isuru](https://img.shields.io/badge/-Fork Repository-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>)](https://github.com/IsuruLK-007/MACTRIX-MD/fork)
+[![isuru](https://img.shields.io/badge/-Fork Repository-grey?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a'/< width=115 height=28/p></a>)](https://github.com/IsuruLK-007/MACTRIX-MD/fork)
     
     
 3. **Connect to whatsapp.**

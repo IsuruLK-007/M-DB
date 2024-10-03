@@ -80,8 +80,8 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
     
 - _Link with your whatsappp using Scan qr code or pair code._
     
-   * <a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Pair Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
-   * <a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Qr Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+* <a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Pair Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+* <a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Qr Code-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
      
 - _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
      

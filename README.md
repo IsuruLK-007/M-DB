@@ -47,20 +47,46 @@
  
 ***
 
-## Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛꜱ 🔮🤖
+#### Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛꜱ 🔮🤖
 
 A **Whatsapp Bot** is a third party application and with this we can easily download many things from whatsApp itself and know many more things that we need.
 
 ***
 
-## Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ MACTRIX-MD 🔮👾
+#### Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ MACTRIX-MD 🔮👾
 
-**MACTRIX-MD** bot is a simple and powerful whatsapp user bot and this bot is very easy to use.
+**MACTRIX-MD** is a simple and powerful whatsapp user bot and this bot is very easy to use.
 
-## MACTRIX-MD Fᴇᴀᴛᴜʀᴇꜱ 🌟
+#### MACTRIX-MD Fᴇᴀᴛᴜʀᴇꜱ 🌟
 
 `Not Published yet !!`
 
-## Hᴏᴡ Tᴏ Uꜱᴇ MACTRIX-MD 📖
+#### Hᴏᴡ Tᴏ Cʀᴇᴀᴛᴇ MACTRIX-MD 📖
+
+1. **You must need those things before deploy.**
+ 
+ - _Github Account._
+   * [![NIMAYT](https://img.shields.io/badge/HOW_TO_MAKE_GITHUB_ACCOUNT-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/@MRNIMAOFC/](https://youtu.be/NZ6oSZfoR88?si=A4ThxQppWddcYZYD))
+
+- _Host_
+
+
+2. **Fork MACTRIX-MD Repository.**
+
+<p align="center">
+<a href='https://github.com/IsuruLK-007/MACTRIX-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repository-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+
+
+3. **Connect to whatsapp.**
+
+- _Link with your whatsappp using Scan qr code or pair code._
+
+Pair Code `Not Published yet !!`
+Qr Code `Not Published yet !!`
+
+- _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
+
+
+4. **Deploy**
 
 `Not Published yet !!`

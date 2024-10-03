@@ -73,7 +73,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
     
 2. **You must need to fork MACTRIX-MD repository.**
    
-<a href='https://github.com/IsuruLK-007/MACTRIX-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repository-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28</a>
+[![isuru](https://img.shields.io/badge/-Fork Repository-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>)](https://github.com/IsuruLK-007/MACTRIX-MD/fork)
     
     
 3. **Connect to whatsapp.**
@@ -88,12 +88,12 @@ Qr Code `Not Published yet !!`
      
 4. **Deploy**
      
-[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/IsuruLK-007/MACTRIX-MD)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/IsuruLK-007/MACTRIX-MD)
   
-[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=mactrix-md)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=mactrix-md)
    
-[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_replit-F26207?style=for-the-badge&logo=replit&logoColor=white&buttcode=1n2i3m4a)](https://replit.com/)
    
-[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
      
-[![nima](https://img.shields.io/badge/mactrix-md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)

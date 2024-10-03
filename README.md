@@ -1,5 +1,4 @@
-<a href="#"><img src="color=abb2b9&center=true&vCenter=true&multiline=false&lines=M+A+C+T+R+I+X+-+M+D" alt="">
-</p>
+ <p align="center"> **M A C T R I X - M D** </p>
 <div class = "repo" align = "center">
  
 <a href = "#">

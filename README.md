@@ -116,7 +116,9 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 </details>
 
-**► ꜰᴏʟʟᴏᴡ ᴜꜱ ᴏɴ ꜱᴏᴄɪᴀʟᴍᴇᴅɪᴀ 🌐**
+#### Follow Us On Social Media 🌐
 
 *_Stay updated with the latest features and announcements by following us on:_*
+
+
 

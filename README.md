@@ -118,7 +118,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 ---
 
-### Follow Us On Social Media 🌐
+######## Follow Us On Social Media 🌐
 
 *_Stay updated with the latest features and announcements by following us on:_*
 
@@ -135,17 +135,17 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 ***
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`MACTRIX-MD BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/IsuruChamika007/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
 
 ---
 
-|**[`I s u R u  C h a M i k a`](https://github.com/IsuruChamika007)**|
+|**[`Isuru Chamika`](https://github.com/IsuruChamika007)**|
 
 ---
 
 <a href="https://github.com/MrTharuwa"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
-|**[`T h a R u s h a  K a v I n d a`](https://github.com/MrTharuwa)**|
+|**[`Tharusha Kavindya`](https://github.com/MrTharuwa)**|

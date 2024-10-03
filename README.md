@@ -83,7 +83,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 Pair Code `Not Published yet !!`
 Qr Code `Not Published yet !!`
      
-- _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
+- _Open config.js on your forked repository. an put `SESSION_ID` and change other settings you need._
      
      
 4. **Deploy**
@@ -105,5 +105,5 @@ Qr Code `Not Published yet !!`
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
       
 - **_You will need some code when deploying in Github workflows. Click the button below to get it._**
-     
-[![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)
+
+[![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo="https://i.ibb.co/pwNf08R/1713103024643.jpg")](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)

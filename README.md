@@ -34,13 +34,13 @@
 
   </a>
   <a href="https://github.com/IsuruLK-007/MACTRIX-MD">
-    <img src="https://img.shields.io/static/v1?label=Developer&message=I%20s%20u%20R%20u%20%20%20C%20h%20a%20M%20i%20k%20a&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Owners&message=CYBERKILLERSTEAM&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
   <a href="https://github.com/IsuruLK-007/MACTRIX-MD">
-    <img src="https://img.shields.io/badge/OWNERS-CYBERKILLERSTEAM%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Developer-I%20s%20u%20R%20u%20%20%20C%20h%20a%20M%20i%20k%20a%20-purple&style=plastic">
 
   </a>
 </p>
@@ -52,8 +52,6 @@
 A **Whatsapp Bot** is a third party application and with this we can easily download many things from whatsApp itself and know many more things that we need.
 
 </details>
-
-***
 
 <b><details><summary>*ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ* ᴍᴀᴄᴛʀɪx - ᴍᴅ ʙᴏᴛ 🔮👾</summary></b>
 

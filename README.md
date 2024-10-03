@@ -138,11 +138,11 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 ### 👑 **`MACTRIX-MD BOT OWNERS`** 👑
 
 
-   <a href="https://github.com/IsuruChamika007/"><img src="https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/IsuruChamika007.jpg" width=80 height=80></a>   
+   <a href="https://github.com/IsuruChamika007/"><img src="https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/IsuruChamika007.jpg" width=80 height=80></a>               [![isuru](https://img.shields.io/badge/CONTACT%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94766632281)
 
 ---
 
-|**[`Isuru Chamika`](https://github.com/IsuruChamika007)**|               [![isuru](https://img.shields.io/badge/CONTACT%20ON%20WHATSAPP-green?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/94766632281)
+|**[`Isuru Chamika`](https://github.com/IsuruChamika007)**|
 
 ---
 

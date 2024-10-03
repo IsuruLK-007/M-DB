@@ -47,15 +47,19 @@
  
 ***
 
-#### *ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ* ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛꜱ 🔮🤖
+<b><details><summary>*ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ* ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛꜱ 🔮🤖</summary></b>
 
 A **Whatsapp Bot** is a third party application and with this we can easily download many things from whatsApp itself and know many more things that we need.
 
+</details>
+
 ***
 
-#### *ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ* ᴍᴀᴄᴛʀɪx - ᴍᴅ ʙᴏᴛ 🔮👾
+<b><details><summary>*ᴀɴ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏꜰ* ᴍᴀᴄᴛʀɪx - ᴍᴅ ʙᴏᴛ 🔮👾</summary></b>
 
 **MACTRIX-MD** is a simple and powerful whatsapp user bot and this bot is very easy to use.
+
+</details>
 
 <b><details><summary>ᴍᴀᴄᴛʀɪx - ᴍᴅ ʙᴏᴛ *ꜰᴇᴀᴛᴜʀᴇꜱ 🌟*</summary></b>
 

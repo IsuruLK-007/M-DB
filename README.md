@@ -88,6 +88,7 @@ Qr Code `Not Published yet !!`
      
 4. **Deploy**
      
+- _You can deploy from the platforms below or your preferred platform from there._
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/IsuruLK-007/MACTRIX-MD)
   
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white&buttcode=1n2i3m4a)](https://railway.app?referralCode=mactrix-md)
@@ -96,4 +97,43 @@ Qr Code `Not Published yet !!`
    
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
      
-[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystalk-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystack-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
+    
+[![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_github_workflows-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX-MD/new/main?filename=.github/workflows/main.yml&workflow_template=blank)
+- _You will need the code below when deploying in Github workflows. 👇_
+     
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```

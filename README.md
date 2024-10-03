@@ -102,8 +102,8 @@ Qr Code `Not Published yet !!`
     
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_github_workflows-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX-MD/new/main?filename=.github/workflows/main.yml&workflow_template=blank)
     
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
+      
 - **_You will need some code when deploying in Github workflows. Click the button below to get it._**
      
 [![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)
-      
-<h3 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h3>

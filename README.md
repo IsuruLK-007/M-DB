@@ -1,4 +1,4 @@
-## <p align="center"> M A C T R I X - M D </p>
+# <p align="center"> M A C T R I X - M D </p>
  <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=MULTI+DEVICE+WHATSAPP+USER+BOT" alt="">
 </p>
@@ -47,6 +47,20 @@
  
 ***
 
-# Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛꜱ 🔮🤖
+## Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ Wʜᴀᴛꜱᴀᴘᴘ Bᴏᴛꜱ 🔮🤖
 
-A **WHATSAPP BOT** is a third party application and with this we can easily download many things from WhatsApp itself and know many more things that we need.
+A **Whatsapp Bot** is a third party application and with this we can easily download many things from whatsApp itself and know many more things that we need.
+
+***
+
+## Aɴ Exᴘʟᴀɴᴀᴛɪᴏɴ Oꜰ MACTRIX-MD 🔮👾
+
+**MACTRIX-MD** bot is a simple and powerful whatsapp user bot and this bot is very easy to use.
+
+## MACTRIX-MD Fᴇᴀᴛᴜʀᴇꜱ 🌟
+
+`Not Published yet !!`
+
+## Hᴏᴡ Tᴏ Uꜱᴇ MACTRIX-MD 📖
+
+`Not Published yet !!`

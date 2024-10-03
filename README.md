@@ -115,3 +115,8 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 [![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo="https://i.ibb.co/pwNf08R/1713103024643.jpg")](https://github.com/IsuruLK-007/MACTRIX/tree/main/WORKFLOWS-CODE)
 
 </details>
+
+**► ꜰᴏʟʟᴏᴡ ᴜꜱ ᴏɴ ꜱᴏᴄɪᴀʟᴍᴇᴅɪᴀ 🌐**
+
+*_Stay updated with the latest features and announcements by following us on:_*
+

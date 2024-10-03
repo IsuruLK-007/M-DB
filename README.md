@@ -12,7 +12,7 @@
   
   </a>
   <a href="https://github.com/IsuruLK-007/MACTRIX-MD/fork">
-    <img src="https://img.shields.io/github/forks/IsuruLK-007/MACTRIX-MD?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/IsuruLK-007/MACTRIX-MD?label=Forks&style=social">
     
   </a>
   <a href="https://github.com/IsuruLK-007/MACTRIX-MD/stargazers">

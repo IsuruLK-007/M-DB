@@ -75,11 +75,13 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 - _Host_
     
 <br>
+
 2. **You must need to fork MACTRIX-MD repository.**
    
 <a href='https://github.com/IsuruChamika007/MACTRIX-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Mactrix Md Repository-black?style=for-the-badge&logo=git&logoColor=white'/></a>
     
 <br>
+
 3. **Connect to whatsapp.**
     
 - _Link with your whatsappp using Scan qr code or pair code._
@@ -90,6 +92,7 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 - _Open config.js on your forked repository. and put `SESSION_ID` and change other settings you need._
      
 <br>
+
 4. **Deploy**
      
 - _You can deploy from the platforms below or your preferred platform from there._
@@ -107,11 +110,13 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_toystack-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://toystack.ai)
     
 <br>
+
 [![isuru](https://img.shields.io/badge/mactrix_md_deploy_on_github_workflows-000000?style=for-the-badge&logo=github&logoColor=white&buttcode=1n2i3m4a)](https://github.com/IsuruChamika007/MACTRIX-MD/new/main?filename=.github/workflows/main.yml&workflow_template=blank)
     
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
       
 <br>
+
 - **_You will need some code when deploying in Github workflows. Click the button below to get it._**
      
 [![isuru](https://img.shields.io/badge/workflows_deployment_code-000000?style=for-the-badge&logo="https://i.ibb.co/pwNf08R/1713103024643.jpg")](https://github.com/IsuruChamika007/MACTRIX/tree/main/WORKFLOWS-CODE)

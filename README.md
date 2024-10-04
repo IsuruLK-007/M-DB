@@ -141,19 +141,34 @@ A **Whatsapp Bot** is a third party application and with this we can easily down
 
 <a href="https://buymeacoffee.com/isuruchamika007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-***
+---
 
 ### **`MACTRIX-MD BOT OWNERS`** 👑
 
 
    <a href="https://github.com/IsuruChamika007/"><img src="https://raw.githubusercontent.com/IsuruBotz/IsuruData/refs/heads/main/Database/Media/IsuruChamika007.jpg" width=80 height=80></a>   
 
----
-
 |**[`Isuru Chamika`](https://github.com/IsuruChamika007)**|
 
----
+***
 
 <a href="https://github.com/MrTharuwa"><img src="https://avatars.githubusercontent.com/u/91013948?v=4" width=80 height=80></a> 
 
 |**[`Tharusha Kavindya`](https://github.com/MrTharuwa)**|
+
+***
+
+### Thanks to
+- [#Baileys](https://github.com/WhiskeySockets/Baileys)<br>
+- [#Github](https://github.com/community)<br>
+
+---
+
+<br>
+<br>
+<br>
+<br>
+
+**Released date :-** `Released Soon ❤️🔜`
+</br></br></br>
+ <p align="center"> MACTRIX-MD | 2024 </p>
